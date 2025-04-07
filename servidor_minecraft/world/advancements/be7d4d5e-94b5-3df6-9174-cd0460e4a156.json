@@ -11252,5 +11252,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-04-07 03:21:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-04-07 03:20:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
