@@ -7827,5 +7827,11 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-04-07 03:08:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
